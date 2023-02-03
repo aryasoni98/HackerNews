@@ -1,6 +1,6 @@
 # Hacker News Clone
 
-Deployed website:
+Deployed website: https://hacker.aryasoni.tech
 
 
 ## To run this application on local server
